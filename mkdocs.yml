@@ -1,0 +1,11 @@
+site_name: Dev blog
+theme:
+  name: material
+site_url: https://atashik.github.io/dev
+site_author: Atabek Kasimov
+copyright: Atabek Kasimov, Dev blog, 2024
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
